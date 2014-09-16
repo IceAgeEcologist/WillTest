@@ -10,3 +10,5 @@ There are important reasons why using version control will help you in the long 
 `git` is one of the most popular version control systems available.  It records incremental changes in code over time using a series of `commits`, that are detailled using comments.
 
 Over time it is possible to see the evolution of a particular project, from the initial commit to the final version.
+
+Hi Simon!  This is IceAgeEcologist.
